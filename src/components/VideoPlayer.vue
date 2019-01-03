@@ -46,7 +46,7 @@ let videos = [{
     {
         id: 4,
         title:'Razer Headset',
-        thumbnail: 'https://i.ytimg.com/vi/DvnSRj8xQBI/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAsdihH_sWaTJpIC7M2fX94wFBRag',
+        thumbnail: 'https://img.youtube.com/vi/DvnSRj8xQBI/0.jpg',
         youtubeURL: 'https://www.youtube.com/watch?v=DvnSRj8xQBI&t=297s',
         creator: 'Linus Tech Tips',
         likes: 0,
@@ -55,7 +55,7 @@ let videos = [{
     {
         id: 5,
         title:'Metallica Guitar Talk with James',
-        thumbnail: 'https://i.ytimg.com/an_webp/nKHAQSyMTMo/mqdefault_6s.webp?du=3000&sqp=CNyDuOEF&rs=AOn4CLCsB0dGcUb1BmQL4pMO2uZoeRsCyQ',
+        thumbnail: 'https://img.youtube.com/vi/nKHAQSyMTMo/0.jpg',
         youtubeURL: 'https://www.youtube.com/watch?v=nKHAQSyMTMo',
         creator: 'Metallica TV',
         likes: 0,
